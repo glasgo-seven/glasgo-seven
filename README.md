@@ -37,10 +37,10 @@ Link: NDA
 
 <hr>
 
-### iHTML (interpreted Hyper Text Markdown Language)
+### iGuana / iHTML (interpreted Hyper Text Markdown Language)
 <img src="https://img.shields.io/badge/Code-Go-79ADDC" alt="Code - Go"> <img src="https://img.shields.io/badge/Web-HTML-E34C26" alt="Web - HTML"> <img src="https://img.shields.io/badge/Web-CSS-3C99DC" alt="Web - CSS"></br>
 A superset to be used as a templater for plain HTML and CSS.</br>
-Link: https://github.com/glasgo-seven/iGuana
+Link: [GitHub Pages](https://glasgo-seven.github.io/iGuana/) [GitHub Rep](https://github.com/glasgo-seven/iGuana)
 
 <hr>
 
