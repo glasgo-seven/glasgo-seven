@@ -5,7 +5,7 @@
 I am a specialist with applied work experience in one of the largest telecommunications companies in the country, teaching and mentoring experience and a great desire to develop in the field of software development.</br>
 Seaking position as **Software developer / Data analyst**.</br>
 
-Contact me => | e-mail: antipov.dimitry.s@yandex.ru | telegram: @glasgo_seven |
+Contact me => | e-mail: antipov.dimitry.s@yandex.ru | telegram: [@glasgo_seven](https://t.me/glasgo_seven) |
 
 ## SKILLS
 <img src="https://img.shields.io/badge/Python-Django_Flask_TelegramAPI_BeautifulSoup-4B8BBE" alt="Python - Django, Flask, TelegramAPI and BeautifulSoup"> <img src="https://img.shields.io/badge/SQL-MySQL_PostgreSQL_SQLite-00758F" alt="SQL - MySQL, PostgreSQL and SQLite"> <img src="https://img.shields.io/badge/NoSQL-Google Firebase-FFA611" alt="NoSQL - Google Firebase"></br>
